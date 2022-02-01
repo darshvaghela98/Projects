@@ -1,2 +1,1 @@
-# Projects
-Personal projects
+It is game where snake tries to eat apple which will increase its size. The catch is with each apple speed of snake increases and also the length. The snake should not hit the boundaries or collide with itself.
